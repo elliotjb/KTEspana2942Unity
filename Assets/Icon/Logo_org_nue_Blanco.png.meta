@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 45b23198a5e853e4ca6a10533ef85d9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8953666476205599953
+    second: Logo_org_nue_Blanco_0
+  - first:
+      213: -3434401699196077680
+    second: Logo_org_nue_Blanco_1
+  - first:
+      213: 8055514246078401987
+    second: Logo_org_nue_Blanco_2
+  - first:
+      213: -5809884201404987452
+    second: Logo_org_nue_Blanco_3
+  - first:
+      213: 6010750348678174988
+    second: Logo_org_nue_Blanco_4
+  - first:
+      213: 4535614494032076787
+    second: Logo_org_nue_Blanco_5
+  - first:
+      213: -8701160046457624921
+    second: Logo_org_nue_Blanco_6
+  - first:
+      213: -8224461813037079520
+    second: Logo_org_nue_Blanco_7
+  - first:
+      213: 701394844286366970
+    second: Logo_org_nue_Blanco_8
+  - first:
+      213: 2127357693120476536
+    second: Logo_org_nue_Blanco_9
+  - first:
+      213: 6078991581286777445
+    second: Logo_org_nue_Blanco_10
+  - first:
+      213: 1657194036718687486
+    second: Logo_org_nue_Blanco_11
+  - first:
+      213: 3033903242041019403
+    second: Logo_org_nue_Blanco_12
+  - first:
+      213: -2245654363909759065
+    second: Logo_org_nue_Blanco_13
+  - first:
+      213: -3054990138894291350
+    second: Logo_org_nue_Blanco_14
+  - first:
+      213: -3446313910595178516
+    second: Logo_org_nue_Blanco_15
+  - first:
+      213: 8517567943093893203
+    second: Logo_org_nue_Blanco_16
+  - first:
+      213: -943850015785447448
+    second: Logo_org_nue_Blanco_17
+  - first:
+      213: 6932884417331915775
+    second: Logo_org_nue_Blanco_18
+  - first:
+      213: -7603026686314351912
+    second: Logo_org_nue_Blanco_19
+  - first:
+      213: -6730359365106851412
+    second: Logo_org_nue_Blanco_20
+  - first:
+      213: 8910008534026053216
+    second: Logo_org_nue_Blanco_21
+  - first:
+      213: -5640683863730898290
+    second: Logo_org_nue_Blanco_22
+  - first:
+      213: 8194946246230546254
+    second: Logo_org_nue_Blanco_23
+  - first:
+      213: 3419011937774573458
+    second: Logo_org_nue_Blanco_24
+  - first:
+      213: -9153972692847384394
+    second: Logo_org_nue_Blanco_25
+  - first:
+      213: -6004591670591782903
+    second: Logo_org_nue_Blanco_26
+  - first:
+      213: -8684391002952541562
+    second: Logo_org_nue_Blanco_27
+  - first:
+      213: 7566401284613700212
+    second: Logo_org_nue_Blanco_28
+  - first:
+      213: -6448262126712491735
+    second: Logo_org_nue_Blanco_29
+  - first:
+      213: -2718773585844743894
+    second: Logo_org_nue_Blanco_30
+  - first:
+      213: 4550543152119065680
+    second: Logo_org_nue_Blanco_31
+  - first:
+      213: -3080562999081603740
+    second: Logo_org_nue_Blanco_32
+  - first:
+      213: 632255176853692845
+    second: Logo_org_nue_Blanco_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 275
+        width: 2242
+        height: 2350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcee87b830d14c70800000000000000
+      internalID: 8953666476205599953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_1
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2246
+        width: 248
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0997b6fc9dd8650d0800000000000000
+      internalID: -3434401699196077680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_2
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2378
+        width: 256
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd0a90e68feacf60800000000000000
+      internalID: 8055514246078401987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_3
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2375
+        width: 245
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c70a15d9152f5fa0800000000000000
+      internalID: -5809884201404987452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_4
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2246
+        width: 248
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09948688997a6350800000000000000
+      internalID: 6010750348678174988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2130
+        width: 79
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff15e20a5db1fe30800000000000000
+      internalID: 4535614494032076787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_6
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 2130
+        width: 79
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a66219d9054f3780800000000000000
+      internalID: -8701160046457624921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1707
+        width: 117
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024e82d5e87dcdd80800000000000000
+      internalID: -8224461813037079520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1825
+        width: 97
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4bafc05eadbb900800000000000000
+      internalID: 701394844286366970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_9
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1825
+        width: 97
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875f3a8fc84e58d10800000000000000
+      internalID: 2127357693120476536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_10
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1707
+        width: 117
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5624033a2aaec5450800000000000000
+      internalID: 6078991581286777445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1458
+        width: 165
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4538a32398ff610800000000000000
+      internalID: 1657194036718687486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1584
+        width: 141
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc2c0ace69a1a20800000000000000
+      internalID: 3033903242041019403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_13
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1584
+        width: 141
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af5ad60145d5d0e0800000000000000
+      internalID: -2245654363909759065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_14
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1458
+        width: 165
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e62ea97ae7a95d0800000000000000
+      internalID: -3054990138894291350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1205
+        width: 206
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefac76f1cb3c20d0800000000000000
+      internalID: -3446313910595178516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1331
+        width: 187
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358bd5e8aea743670800000000000000
+      internalID: 8517567943093893203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_17
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1205
+        width: 206
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef8cdf4965c6e2f0800000000000000
+      internalID: -943850015785447448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_18
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1331
+        width: 187
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbe8e345ad863060800000000000000
+      internalID: 6932884417331915775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1080
+        width: 225
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2fa68e28f9c7690800000000000000
+      internalID: -7603026686314351912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 960
+        width: 239
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1251001d5f892a0800000000000000
+      internalID: -6730359365106851412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_21
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 960
+        width: 239
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0666250fd85b6ab70800000000000000
+      internalID: 8910008534026053216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_22
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 1080
+        width: 225
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8aba0c59e348b1b0800000000000000
+      internalID: -5640683863730898290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 844
+        width: 251
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e471ef7313c4ab170800000000000000
+      internalID: 8194946246230546254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_24
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 844
+        width: 251
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2979fd12e35c27f20800000000000000
+      internalID: 3419011937774573458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 734
+        width: 259
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8a43fe55e86f080800000000000000
+      internalID: -9153972692847384394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_26
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 734
+        width: 259
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9008b1570b76baca0800000000000000
+      internalID: -6004591670591782903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_27
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 238
+        width: 114
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a5a6a0568da7780800000000000000
+      internalID: -8684391002952541562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 205
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a757d31e1410960800000000000000
+      internalID: 7566401284613700212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 223
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92172b692cb2386a0800000000000000
+      internalID: -6448262126712491735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_30
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 223
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21520f04d9f44ad0800000000000000
+      internalID: -2718773585844743894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_31
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 0
+        width: 223
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ca42513e6c62f30800000000000000
+      internalID: 4550543152119065680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_32
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 0
+        width: 223
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d678b1644af35d0800000000000000
+      internalID: -3080562999081603740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_org_nue_Blanco_33
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 0
+        width: 223
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da124c7cbb836c800800000000000000
+      internalID: 632255176853692845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Logo_org_nue_Blanco_0: 8953666476205599953
+      Logo_org_nue_Blanco_1: -3434401699196077680
+      Logo_org_nue_Blanco_10: 6078991581286777445
+      Logo_org_nue_Blanco_11: 1657194036718687486
+      Logo_org_nue_Blanco_12: 3033903242041019403
+      Logo_org_nue_Blanco_13: -2245654363909759065
+      Logo_org_nue_Blanco_14: -3054990138894291350
+      Logo_org_nue_Blanco_15: -3446313910595178516
+      Logo_org_nue_Blanco_16: 8517567943093893203
+      Logo_org_nue_Blanco_17: -943850015785447448
+      Logo_org_nue_Blanco_18: 6932884417331915775
+      Logo_org_nue_Blanco_19: -7603026686314351912
+      Logo_org_nue_Blanco_2: 8055514246078401987
+      Logo_org_nue_Blanco_20: -6730359365106851412
+      Logo_org_nue_Blanco_21: 8910008534026053216
+      Logo_org_nue_Blanco_22: -5640683863730898290
+      Logo_org_nue_Blanco_23: 8194946246230546254
+      Logo_org_nue_Blanco_24: 3419011937774573458
+      Logo_org_nue_Blanco_25: -9153972692847384394
+      Logo_org_nue_Blanco_26: -6004591670591782903
+      Logo_org_nue_Blanco_27: -8684391002952541562
+      Logo_org_nue_Blanco_28: 7566401284613700212
+      Logo_org_nue_Blanco_29: -6448262126712491735
+      Logo_org_nue_Blanco_3: -5809884201404987452
+      Logo_org_nue_Blanco_30: -2718773585844743894
+      Logo_org_nue_Blanco_31: 4550543152119065680
+      Logo_org_nue_Blanco_32: -3080562999081603740
+      Logo_org_nue_Blanco_33: 632255176853692845
+      Logo_org_nue_Blanco_4: 6010750348678174988
+      Logo_org_nue_Blanco_5: 4535614494032076787
+      Logo_org_nue_Blanco_6: -8701160046457624921
+      Logo_org_nue_Blanco_7: -8224461813037079520
+      Logo_org_nue_Blanco_8: 701394844286366970
+      Logo_org_nue_Blanco_9: 2127357693120476536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 0610f5bed2d7bb7488156afc016c28b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6459109502858313923
+    second: 175x_dorado_0
+  - first:
+      213: -5081836641466884673
+    second: 175x_dorado_1
+  - first:
+      213: -7759539295365733081
+    second: 175x_dorado_2
+  - first:
+      213: -1013743901145177449
+    second: 175x_dorado_3
+  - first:
+      213: 4853898104676618604
+    second: 175x_dorado_4
+  - first:
+      213: -4414779214370363521
+    second: 175x_dorado_5
+  - first:
+      213: 7051657815567913518
+    second: 175x_dorado_6
+  - first:
+      213: -6300952672028520385
+    second: 175x_dorado_7
+  - first:
+      213: 1085949011394259270
+    second: 175x_dorado_8
+  - first:
+      213: 7571984057155326634
+    second: 175x_dorado_9
+  - first:
+      213: 6354163121826089779
+    second: 175x_dorado_10
+  - first:
+      213: -5590111996929421829
+    second: 175x_dorado_11
+  - first:
+      213: 2578787532438949798
+    second: 175x_dorado_12
+  - first:
+      213: -432497092059656425
+    second: 175x_dorado_13
+  - first:
+      213: -6891295889132082768
+    second: 175x_dorado_14
+  - first:
+      213: -2392844488138197487
+    second: 175x_dorado_15
+  - first:
+      213: 7209171759389927118
+    second: 175x_dorado_16
+  - first:
+      213: -5377241117922301829
+    second: 175x_dorado_17
+  - first:
+      213: -4709159878003234261
+    second: 175x_dorado_18
+  - first:
+      213: -564151020460630037
+    second: 175x_dorado_19
+  - first:
+      213: 4265656576186110771
+    second: 175x_dorado_20
+  - first:
+      213: -4277983158298724896
+    second: 175x_dorado_21
+  - first:
+      213: -5444168263736982819
+    second: 175x_dorado_22
+  - first:
+      213: -3659812171640461638
+    second: 175x_dorado_23
+  - first:
+      213: -719643886138157270
+    second: 175x_dorado_24
+  - first:
+      213: -3362467425344189888
+    second: 175x_dorado_25
+  - first:
+      213: -6239208829188534591
+    second: 175x_dorado_26
+  - first:
+      213: -9085352542501091375
+    second: 175x_dorado_27
+  - first:
+      213: 9179422329193278637
+    second: 175x_dorado_28
+  - first:
+      213: 8861283740949106695
+    second: 175x_dorado_29
+  - first:
+      213: -8415760855319592552
+    second: 175x_dorado_30
+  - first:
+      213: -3578913790451760998
+    second: 175x_dorado_31
+  - first:
+      213: 1241568533222818275
+    second: 175x_dorado_32
+  - first:
+      213: -742139703007259031
+    second: 175x_dorado_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 175x_dorado_0
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 3505
+        width: 367
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fb7c40122ac56a0800000000000000
+      internalID: -6459109502858313923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_1
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 3695
+        width: 374
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd5dc2df70b979b0800000000000000
+      internalID: -5081836641466884673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_2
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 3690
+        width: 359
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7256a076f14905490800000000000000
+      internalID: -7759539295365733081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_3
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 3505
+        width: 367
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792e50ffa457ee1f0800000000000000
+      internalID: -1013743901145177449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_4
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 680
+        width: 2935
+        height: 2941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c611131fb928c5340800000000000000
+      internalID: 4853898104676618604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_5
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 3337
+        width: 125
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f772dade1bd8bb2c0800000000000000
+      internalID: -4414779214370363521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_6
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 3337
+        width: 125
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2258860c658cd160800000000000000
+      internalID: 7051657815567913518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_7
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2729
+        width: 186
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30113dbde48e88a0800000000000000
+      internalID: -6300952672028520385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_8
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 2899
+        width: 155
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649675c4fd0121f00800000000000000
+      internalID: 1085949011394259270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_9
+      rect:
+        serializedVersion: 2
+        x: 5167
+        y: 2899
+        width: 154
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa21aa3c167151960800000000000000
+      internalID: 7571984057155326634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_10
+      rect:
+        serializedVersion: 2
+        x: 5244
+        y: 2729
+        width: 184
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bc45981b58e2850800000000000000
+      internalID: 6354163121826089779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_11
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 2371
+        width: 255
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd4f58a1ceeb62b0800000000000000
+      internalID: -5590111996929421829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_12
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 2552
+        width: 221
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afca360991b9c320800000000000000
+      internalID: 2578787532438949798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_13
+      rect:
+        serializedVersion: 2
+        x: 5296
+        y: 2552
+        width: 220
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f056daf267ff9f0800000000000000
+      internalID: -432497092059656425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_14
+      rect:
+        serializedVersion: 2
+        x: 5327
+        y: 2371
+        width: 254
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b92c2686e23d50a0800000000000000
+      internalID: -6891295889132082768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_15
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2005
+        width: 315
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11675c9ad98eaced0800000000000000
+      internalID: -2392844488138197487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_16
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2188
+        width: 287
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6e633f48f1c0460800000000000000
+      internalID: 7209171759389927118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_17
+      rect:
+        serializedVersion: 2
+        x: 5317
+        y: 2005
+        width: 315
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78ed9e61b33065b0800000000000000
+      internalID: -5377241117922301829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_18
+      rect:
+        serializedVersion: 2
+        x: 5333
+        y: 2187
+        width: 287
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a68198a04b5aeb0800000000000000
+      internalID: -4709159878003234261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_19
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1822
+        width: 342
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef15c9c2abbb28f0800000000000000
+      internalID: -564151020460630037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_20
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1649
+        width: 361
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333d16d3e08a23b30800000000000000
+      internalID: 4265656576186110771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_21
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 1649
+        width: 362
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e53086bbfc81a4c0800000000000000
+      internalID: -4277983158298724896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_22
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 1824
+        width: 342
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2808efecd6274b0800000000000000
+      internalID: -5444168263736982819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_23
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 1480
+        width: 378
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab628bc683cb53dc0800000000000000
+      internalID: -3659812171640461638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_24
+      rect:
+        serializedVersion: 2
+        x: 5131
+        y: 1480
+        width: 377
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2714f9c2bf4306f0800000000000000
+      internalID: -719643886138157270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_25
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1321
+        width: 389
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a898711bd1651d0800000000000000
+      internalID: -3362467425344189888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_26
+      rect:
+        serializedVersion: 2
+        x: 5027
+        y: 1321
+        width: 389
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce8cb860a0e969a0800000000000000
+      internalID: -6239208829188534591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_27
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 598
+        width: 177
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c705bff75ae180800000000000000
+      internalID: -9085352542501091375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_28
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 251
+        width: 314
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacaad649fbd36f70800000000000000
+      internalID: 9179422329193278637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_29
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 250
+        width: 334
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70057310d9a99fa70800000000000000
+      internalID: 8861283740949106695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_30
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 251
+        width: 330
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891c9083716353b80800000000000000
+      internalID: -8415760855319592552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_31
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 250
+        width: 332
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9040669ed4255ec0800000000000000
+      internalID: -3578913790451760998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_32
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 249
+        width: 335
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e18c0bb000fa3110800000000000000
+      internalID: 1241568533222818275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 175x_dorado_33
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 249
+        width: 339
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966d9844fd363b5f0800000000000000
+      internalID: -742139703007259031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      175x_dorado_0: -6459109502858313923
+      175x_dorado_1: -5081836641466884673
+      175x_dorado_10: 6354163121826089779
+      175x_dorado_11: -5590111996929421829
+      175x_dorado_12: 2578787532438949798
+      175x_dorado_13: -432497092059656425
+      175x_dorado_14: -6891295889132082768
+      175x_dorado_15: -2392844488138197487
+      175x_dorado_16: 7209171759389927118
+      175x_dorado_17: -5377241117922301829
+      175x_dorado_18: -4709159878003234261
+      175x_dorado_19: -564151020460630037
+      175x_dorado_2: -7759539295365733081
+      175x_dorado_20: 4265656576186110771
+      175x_dorado_21: -4277983158298724896
+      175x_dorado_22: -5444168263736982819
+      175x_dorado_23: -3659812171640461638
+      175x_dorado_24: -719643886138157270
+      175x_dorado_25: -3362467425344189888
+      175x_dorado_26: -6239208829188534591
+      175x_dorado_27: -9085352542501091375
+      175x_dorado_28: 9179422329193278637
+      175x_dorado_29: 8861283740949106695
+      175x_dorado_3: -1013743901145177449
+      175x_dorado_30: -8415760855319592552
+      175x_dorado_31: -3578913790451760998
+      175x_dorado_32: 1241568533222818275
+      175x_dorado_33: -742139703007259031
+      175x_dorado_4: 4853898104676618604
+      175x_dorado_5: -4414779214370363521
+      175x_dorado_6: 7051657815567913518
+      175x_dorado_7: -6300952672028520385
+      175x_dorado_8: 1085949011394259270
+      175x_dorado_9: 7571984057155326634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
